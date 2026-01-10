@@ -1,9 +1,3 @@
 title: Teramibakery Notes
-description: 
-theme: minima
+description: ""
 markdown: kramdown
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
