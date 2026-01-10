@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Home
+title: Teramibakery
 ---
 
-Directory:
+# Teramibakery
 
-## Electrical Engineering
+## Directory
+
+### Electrical Engineering
 - [Electrical Engineering](electrical-engineering/)
 
-## Traditional Chinese Medicine
+### Traditional Chinese Medicine
 - [Traditional Chinese Medicine](traditional-chinese-medicine/)
