@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# Morning Glory Garden
-
 Directory:
 
 ## Electrical Engineering
