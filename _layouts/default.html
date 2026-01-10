@@ -12,6 +12,17 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
+
+  {% if page.show_nav %}
+    <nav style="margin-bottom: 18px;">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      &nbsp;|&nbsp;
+      <a href="{{ '/electrical-engineering/' | relative_url }}">Electrical Engineering</a>
+      &nbsp;|&nbsp;
+      <a href="{{ '/traditional-chinese-medicine/' | relative_url }}">Traditional Chinese Medicine</a>
+    </nav>
+  {% endif %}
+
   {{ content }}
 </body>
 </html>
