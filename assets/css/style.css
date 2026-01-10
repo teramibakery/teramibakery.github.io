@@ -1,0 +1,23 @@
+body {
+  background-color: #FFF7F9;
+  color: #000000;
+  font-family: 'Nunito', sans-serif;
+  max-width: 800px;
+  margin: auto;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+h1, h2, h3 {
+  color: #2B2D42;
+  font-weight: 700;
+}
+
+a {
+  color: #B3A7E6;
+  text-decoration: none;
+  font-weight: 600;
+}
+a:hover {
+  text-decoration: underline;
+}
