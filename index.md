@@ -13,3 +13,7 @@ show_nav: true
 
 ### Traditional Chinese Medicine
 - [Traditional Chinese Medicine](traditional-chinese-medicine/)
+
+### Recipes
+- [Recipes](recipes/)
+
